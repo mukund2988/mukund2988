@@ -1,7 +1,8 @@
 
 
-[![Linkedin: Mukund Chaturvedi](https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)]
-[![Twitter: First4nation](https://twitter.com/First4Nation?t=RQ8OAQvis25-xiD_g7syRg&s=09)]
+[![Linkedin: Mohd Taha Hameed](https://img.shields.io/badge/-Mohd%20Taha%20Hameed-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)](https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)
+[![Twitter: ](https://img.shields.io/twitter/follow/tahahameed_?style=social)](https://twitter.com/tahahameed_)
+
 
 ## 👋 Hey, I'm Mukund
    - A student.
@@ -15,7 +16,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,react,firebase,mysql" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,mysql" />
   </a>
 </p>
 
