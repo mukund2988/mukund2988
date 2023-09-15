@@ -1,6 +1,6 @@
 
 
-[![Linkedin: Mukund Chaturvedi](https://img.shields.io/badge/-mukund%20chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)](https://www.linkedin.com/in/mohd-taha-hameed-a89443200/)
+[![Linkedin: Mukund Chaturvedi](https://img.shields.io/badge/-mukund%20chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)](https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)
 [![Twitter: ](https://img.shields.io/twitter/follow/tahahameed_?style=social)](https://twitter.com/tahahameed_)
 
 
