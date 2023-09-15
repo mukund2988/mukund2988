@@ -1,7 +1,7 @@
 
 
-[![Linkedin: Mukund Chaturvedi](https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)
-[![Twitter: First4nation](https://twitter.com/First4Nation?t=RQ8OAQvis25-xiD_g7syRg&s=09)
+[![Linkedin: Mukund Chaturvedi](https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)]
+[![Twitter: First4nation](https://twitter.com/First4Nation?t=RQ8OAQvis25-xiD_g7syRg&s=09)]
 
 ## 👋 Hey, I'm Mukund
    - A student.
