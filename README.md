@@ -36,12 +36,7 @@
   </a>
 </p>
 
-## Google cloud 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=google-cloud" />
-  </a>
-</p>
+
 
 
 ## Profile Stats 📈
