@@ -32,7 +32,7 @@
 ## Data base 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,db" />
   </a>
 </p>
 
