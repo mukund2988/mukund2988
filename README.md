@@ -32,7 +32,14 @@
 ## Data base 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,php,db" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+## Google cloud 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=google-cloud" />
   </a>
 </p>
 
