@@ -1,7 +1,7 @@
 
 
 [![Linkedin: Mukund Chaturvedi](https://img.shields.io/badge/-mukund%20chaturvedi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)](https://www.linkedin.com/in/mukund-chaturvedi-0276a024b/)
-[![Twitter: ](https://img.shields.io/twitter/follow/mukund_?style=social)](https://twitter.com/First4Nation?t=RQ8OAQvis25-xiD_g7syRg&s=09)
+[![Twitter: ](https://img.shields.io/twitter/follow/mukund_?style=social)](https:)
 
 
 ## 👋 Hey, I'm Mukund
