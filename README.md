@@ -27,18 +27,17 @@
   </a>
 </p>
 
-## Designing
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=figma" />
-  </a>
-</p>
-
-
 ## Data base 
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </a>
+</p>
+
+## Designing
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma" />
   </a>
 </p>
 
