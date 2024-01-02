@@ -5,7 +5,7 @@
 
 ## 👋 Hey, I'm Mukund
    - A student.
-   - Currently learning Javascrip & database.
+   - .
    - Interested in Front + Backend web dev.
 
 
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,mysql,php" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,mysql,php,next" />
   </a>
 </p>
 
