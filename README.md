@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,mysql,php,next,node" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,bootstrap,php" />
   </a>
 </p>
 
@@ -23,7 +23,7 @@
 ## Programming 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python" />
   </a>
 </p>
 
