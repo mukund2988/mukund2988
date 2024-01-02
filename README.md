@@ -5,8 +5,8 @@
 
 ## 👋 Hey, I'm Mukund
    - A student.
-   - .
-   - Interested in Front + Backend web dev.
+   - Freelancer.
+   - Full stack web-dev.
 
 
 ## Skills 👨‍💻
