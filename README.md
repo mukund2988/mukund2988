@@ -5,8 +5,8 @@
 
 ## 👋 Hey, I'm Mukund
    - A student.
-   - Freelancer.
    - Full stack web-dev.
+   - Freelancer.
 
 
 ## Skills 👨‍💻
